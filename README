@@ -1,0 +1,15 @@
+# ALL API KEYS ARE STRIPPED
+
+flaskAPI.py - Template for creating simple json return http request api
+
+googleReviews - Find all google reviews relevant to your work there! Returned JSON files.
+
+ipGeolocation.py - locates ip address geographically.
+
+meme.py - meme generator
+
+spotifyAPI.py - Fetch music data from spotify
+
+twitterTopHashtag.py - http request tecnique to fetch topics of WOEID location
+
+vinAPI.py - VinAudit api to get details about a car.
